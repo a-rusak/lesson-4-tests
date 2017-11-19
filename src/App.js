@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import './App.css';
 import Switcher from './Switcher';
 import CardNumberHolder from './CardNumberHolder';
